@@ -1,4 +1,4 @@
 ProcessingApp
 =============
 
-Apps made with Processing 
+Some sketches made with Processing to show for Coding Gestalt 
